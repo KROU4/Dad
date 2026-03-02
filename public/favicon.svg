@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#7f4304"/>
+  <!-- Стилизованная буква M (мебель) -->
+  <path d="M8 22V10h2.5l2.5 6 2.5-6H18v12h-2v-7l-1.5 3-1.5-3v7H8z" fill="#f8f7f5"/>
+</svg>
