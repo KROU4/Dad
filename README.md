@@ -44,7 +44,7 @@ npm run dev
 
 ```bash
 npm run build    # Сборка в dist/
-npm run preview  # Локальный просмотр собранной версии
+npm run preview  # Локальный просмотр собраной версии
 ```
 
 ## Деплой на GitHub Pages
